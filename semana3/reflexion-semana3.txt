@@ -1,0 +1,1 @@
+Git es fundamental porque permite tener un historial detallado de cada modificación, lo que facilita volver atrás si algo falla. Además, ayuda a trabajar en equipo de forma organizada, evitando que el trabajo de una persona borre el de otra. Sin el control de versiones, el desarrollo de software sería desordenado y muy arriesgado ante errores humanos.
